@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1649782551 source:f:\palindrome\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<iterator>
+	<map>
+	<set>
+	<string>
+	<cstring>
+	<cstdio>
+	<stack>
+	<queue>
+	<math.h>
+	<utility>
+	<sstream>
+	<bitset>
+
+1650126770 source:f:\palindrome\main.c
+	<stdio.h>
+	<string.h>
+
